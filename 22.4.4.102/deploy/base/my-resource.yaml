@@ -1,0 +1,4 @@
+apiVersion: v1
+kind: res
+metadata:
+  name: my-resource
